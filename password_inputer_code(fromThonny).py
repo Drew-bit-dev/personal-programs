@@ -13,3 +13,8 @@ time.sleep(3)
 layout.write('INPUT PASSWORD HERE')
 time.sleep(1)
 layout.write('\n')
+
+#to run this you will have to 
+#import the keyboard inputs 
+#as well as download the 
+#microcontroller library from Adafruit
