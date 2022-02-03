@@ -15,6 +15,6 @@ time.sleep(1)
 layout.write('\n')
 
 #to run this you will have to 
-#copy this code into Thonny
+#copy this code into Thonny IDE
 #as well as download the 
 #microcontroller library from Adafruit
